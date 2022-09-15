@@ -2,4 +2,4 @@
  2nd assigment for Brainnest
 
 
-https://tayleee.github.io/CSS-project/
+https://patrkydurda.github.io/CSS-project/
